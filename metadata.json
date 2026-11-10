@@ -1,0 +1,6 @@
+{
+  "name": "PHOS AI Employees Interactive Demo",
+  "description": "Interactive embeddable hero demo of the PHOS AI Labs AI Employees application featuring Johnny (Sales Research).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
